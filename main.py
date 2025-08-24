@@ -32,7 +32,7 @@ window.title("Яблочный калькулятор ССЦ")
 window.resizable
 
 
-fnc_logo = PhotoImage(file="img\Logo.png")
+fnc_logo = PhotoImage(file="Logo.png")
 label1 = ttk.Label(image=fnc_logo, text="Введите вес яблок в кг", compound="top")
 label1.grid(padx=6, pady=6)
 

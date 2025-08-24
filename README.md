@@ -1,2 +1,2 @@
 # SBA-System
-SBA System is a software developer specializing in a whole range of solved problems and projects.
+Apple calculator allows you to count the number of seeds that can be obtained from apples and the number of seedlings that can be obtained from these seeds

@@ -14,7 +14,7 @@ def resource_path(relative_path):
     except Exception:
         base_path = os.path.abspath(".")
     return os.path.join(base_path, relative_path)
-Logo = resource_path("img\Logo.png")
+Logo = resource_path("Logo.png")
 
 def click_button():
     """
